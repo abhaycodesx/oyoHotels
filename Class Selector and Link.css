@@ -1,0 +1,24 @@
+.qid{
+	color:green;
+	font-size:60px;
+	text-align:right;
+}
+
+h3.wid{
+	color:brown;
+	font-size:55px;
+	text-align:center;
+}
+
+.rid{
+	color:purple;
+	font-size:56px;
+	
+}
+
+.tid{
+	text-align:center;
+	border:20pt solid red;
+	
+	
+}
